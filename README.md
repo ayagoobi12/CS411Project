@@ -29,7 +29,7 @@ Website Beta
 User Stories 1:
 As a user, I want to ensure that my personal finances are secure on the platform I use. 
 
-Tasks:
+Task 1:
 Implement OAuth for User Authentication
 Ticket 1: Configure Flask application to integrate OAuth authentication.
 Ticket 2: Implement OAuth login functionality using Flask-OAuthlib.
@@ -38,7 +38,7 @@ Ticket 2: Implement OAuth login functionality using Flask-OAuthlib.
 User Stories 2:
 As a user, I want to be able to see what the value of my account is in different currencies. 
 
-Tasks: 
+Task 2: 
 Integrate Currency Conversion API
 Ticket 1: Set up API connection for retrieving currency conversion rates.
 Ticket 2: Implement functionality to convert financial data into different currencies based on user preferences.
