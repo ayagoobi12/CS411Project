@@ -70,6 +70,26 @@
                 {% endfor %}
             </ul>            
         </section>
+        <!-- Stock Data Viewer -->
+        <section id="stock-data-section">
+            <h2>Stock Data Viewer</h2>
+            <div>
+                <label for="stock-input">Enter Stock Ticker:</label>
+                <input type="text" id="stock-input" placeholder="Enter stock ticker...">
+            </div>
+            <div>
+                <label for="date-select">Select Day:</label>
+                <select id="date-select">
+                    <!-- Options will be dynamically populated with JavaScript -->
+                </select>
+            </div>
+            <div id="stock-data"
+            class="container">
+                <!-- Stock data will be displayed here -->
+                <p>Stock data will be displayed here.</p>
+            </div>
+        </section>
+        
         <!-- Dashboard -->
         <section id="dashboard">
             <h2>Dashboard</h2>
