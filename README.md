@@ -27,7 +27,7 @@ Epic:
 Website Beta 
 
 User Stories 1:
-As a user, I want to ensure that my personal finances are secure on the platform I use. 
+As a new user, I want to ensure that my personal finances are secure on the platform I use. 
 
 Task 1:
 Implement OAuth for User Authentication
@@ -36,7 +36,7 @@ Ticket 2: Implement OAuth login functionality using Flask-OAuthlib.
 
 
 User Stories 2:
-As a user, I want to be able to see what the value of my account is in different currencies. 
+As a frequent user, I want to be able to see what the value of my account is in different currencies. 
 
 Task 2: 
 Integrate Currency Conversion API
